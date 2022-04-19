@@ -27,13 +27,14 @@ numpy == 1.14.6
 matplotlib == 3.2.2
 
 #### Demo  
- 
-<img src= ".\images\demo1.png" alt="Image with a Green Screen Background. "/>  
+Image with a Green Screen Background.  
+<img src= ".\images\demo1.png" alt="Image with a Green Screen Background. "/>    
   
+Image with a Background.  
+<img src= ".\images\demo2.png" alt="Image with a Background."/>    
 
-<img src= ".\images\demo2.png" alt="Image with a Background."/>   
 
-  
+Final Image    
 <img src= ".\images\demo3.png" alt="Final Image"/> 
   
 
