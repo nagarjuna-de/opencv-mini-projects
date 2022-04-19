@@ -30,7 +30,7 @@ matplotlib == 3.2.2
 
 #### Demo  
 Blank Image  
-<img src= ".\images\demo1.jpg" alt="Image with a Green Screen Background. "/>    
+<img src= ".\images\demo1.JPG" alt="Image with a Green Screen Background. "/>    
   
 Meme Image.  
 <img src= ".\images\demo2.jpg" alt="Image with a Background."/>    
