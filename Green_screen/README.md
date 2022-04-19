@@ -25,3 +25,18 @@ Python == 3.8.13
 Opencv-python == 4.5.5  
 numpy == 1.14.6  
 matplotlib == 3.2.2
+
+#### Demo  
+Image with a Green Screen Background.  
+![Green Screen image]( .\images\demo1.png)  
+  
+Image with a Background.
+![Background Image]( .\images\demo2.png)  
+  
+Final Image  
+![Final Image]( .\images\demo3.png)  
+  
+
+
+
+
