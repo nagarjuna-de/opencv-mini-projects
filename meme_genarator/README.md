@@ -1,6 +1,6 @@
 # Meme Generator
 #### Introduction  
-The idea behind this project is to `Spider-meme Image` and to add our own content need to make a meme.  
+The idea behind this project is to create `Spider-meme Image` and to add our own content need to make a meme.  
 For this project, I used Opencv library.
   
 #### What to Install
