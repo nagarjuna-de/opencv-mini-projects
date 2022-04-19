@@ -3,9 +3,7 @@ import cv2
 import os
 import matplotlib.pyplot as plt
 
-# Detect the QR code in the image using     cv2.imshow(f'{description}', image)
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
+# Detect the QR code in the image using QRCodeDetector()   
 
 ## Load the image
 img_upload = input('Enter the image name with extension:')
